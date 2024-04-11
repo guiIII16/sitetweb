@@ -7,3 +7,11 @@
     align-items: center;
     padding: 24px 0;
 }
+
+.cabecalho-image{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+}
